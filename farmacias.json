@@ -1,10 +1,66 @@
 [
   {
-    "nome": "Farmácia São Silvestre",
-    "contato": "+5528999399675"
+    "nome": "Drogaria Avenida",
+    "contato": "+552835531335"
+  },
+  {
+    "nome": "Drogaria Nova",
+    "contato": "+552835531380"
+  },
+  {
+    "nome": "Drogaria São Camilo",
+    "contato": "+5528999433375"
+  },
+  {
+    "nome": "Drogaria União",
+    "contato": "+5528999911317"
+  },
+  {
+    "nome": "Erva Doce Farmácia de Manipulação",
+    "contato": "+552835534300"
+  },
+  {
+    "nome": "Farmácia Biofarma",
+    "contato": "+552835531158"
+  },
+  {
+    "nome": "Farmácia de Manipulação A Terapêutica",
+    "contato": "+5528999113080"
+  },
+  {
+    "nome": "Farmácia Drogacenter",
+    "contato": "+5528999303123"
+  },
+  {
+    "nome": "Farmácia Espírito Santo",
+    "contato": "+552835531565"
+  },
+  {
+    "nome": "Farmácia Farma Vida",
+    "contato": "+552835534448"
+  },
+  {
+    "nome": "Farmácia Farmabem",
+    "contato": "+5528999554069"
+  },
+  {
+    "nome": "Farmácia Farmes",
+    "contato": "+552835532283"
   },
   {
     "nome": "Farmácia Modelo",
     "contato": "+552835531742"
+  },
+  {
+    "nome": "Farmácia Preço Baixo",
+    "contato": "+5528999698690"
+  },
+  {
+    "nome": "Farmácia São Silvestre",
+    "contato": "+552835531666"
+  },
+  {
+    "nome": "São Silvestre Manipulação",
+    "contato": "+552835533635"
   }
 ]
